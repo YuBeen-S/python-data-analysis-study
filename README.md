@@ -11,7 +11,7 @@
 - 데이터 분석 실습
 
 ## 📂 Repository Structure
-...  
+```
 python-data-analysis-study/  
 |  
 ├── chapter01/  
@@ -20,7 +20,7 @@ python-data-analysis-study/
 ├── practice/  
 |  
 └── README.md  
-...
+```
 
 ## 🎯 Goal
 - Python 데이터 분석 기초 역량 향상
