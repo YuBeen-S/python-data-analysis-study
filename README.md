@@ -1,6 +1,6 @@
 # python-data-analysis-study
 
-휴학 기간 동안 ** 『혼자 공부하는 데이터 분석 with 파이썬』**을 기반으로 Python 데이터 분석을 학습하며 작성한 코드와 실습 내용을 정리한 저장소입니다.
+휴학 기간 동안 **『혼자 공부하는 데이터 분석 with 파이썬』**을 기반으로 Python 데이터 분석을 학습하며 작성한 코드와 실습 내용을 정리한 저장소입니다.
 
 ## 📚 Study Contents
 - Python 기초
@@ -11,15 +11,15 @@
 - 데이터 분석 실습
 
 ## 📂 Repository Structure
-...
-python-data-analysis-study/
-|
-├── chapter01/
-├── chapter02/
-|
-├── practice/
-|
-└── README.md
+...  
+python-data-analysis-study/  
+|  
+├── chapter01/  
+├── chapter02/  
+|  
+├── practice/  
+|  
+└── README.md  
 ...
 
 ## 🎯 Goal
