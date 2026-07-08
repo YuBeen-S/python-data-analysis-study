@@ -34,7 +34,7 @@ python-data-analysis-study/
 학습이 진행됨에 따라 내용이 지속적으로 추가되고 업데이트됩니다.
 
 ## 📈 Progress
-- [ ] Chapter 01
+- [X] Chapter 01
 - [ ] Chapter 02
 - [ ] Chapter 03
 - [ ] Chapter 04
